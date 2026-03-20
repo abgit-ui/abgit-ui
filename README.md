@@ -28,7 +28,7 @@
 <!-- PROFILE IMAGE -->
 
 <p align="center">
-  <img src=""Aanchal Bhatt"/>
+  <img src="Screenshot 2026-03-20 132411.png"Aanchal Bhatt"/>
 </p>
 
 ---
