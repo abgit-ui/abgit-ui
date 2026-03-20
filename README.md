@@ -1,9 +1,14 @@
-## Hi there 👋
 <!-- ================================================= -->
 
 <!--            AANCHAL BHATT • GITHUB PROFILE         -->
 
 <!-- ================================================= -->
+
+<!-- 🔥 BANNER (PUT YOUR IMAGE IN REPO FIRST) -->
+
+<p align="center">
+  <img src="./banner.png" width="100%" alt="Aanchal Bhatt Banner"/>
+</p>
 
 <h1 align="center">Hi 👋, I'm Aanchal Bhatt</h1>
 
@@ -28,7 +33,7 @@
 <!-- PROFILE IMAGE -->
 
 <p align="center">
-  <img src="Screenshot 2026-03-20 132411.png"Aanchal Bhatt"/>
+  <img src="./Screenshot 2026-03-20 132411.png" width="170" alt="Aanchal Bhatt"/>
 </p>
 
 ---
@@ -46,12 +51,12 @@
 ## 🔥 GitHub Dashboard
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight&border_radius=12"/>
-  <img height="165" src="https://streak-stats.demolab.com?user=USERNAME&theme=tokyonight&border_radius=12"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=abgit-ui&show_icons=true&theme=tokyonight&border_radius=12"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=abgit-ui&theme=tokyonight&border_radius=12"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight&border_radius=12"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abgit-ui&layout=compact&theme=tokyonight&border_radius=12"/>
 </p>
 
 ---
@@ -67,7 +72,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=USERNAME&theme=tokyo-night&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=abgit-ui&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
@@ -75,19 +80,21 @@
 ## 🐍 Contribution Snake Animation
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/USERNAME/USERNAME/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/abgit-ui/abgit-ui/output/github-contribution-grid-snake.svg" alt="snake animation"/>
 </p>
 
-<!--
-SETUP FOR SNAKE ANIMATION (DO ONCE):
+<!-- ================================================= -->
 
-1️⃣ Go to your profile repository
-2️⃣ Open "Actions" tab → Enable workflows
-3️⃣ Create file:
+<!-- IMPORTANT: SETUP SNAKE ANIMATION (DO ONCE)        -->
+
+<!-- ================================================= -->
+
+<!--
+Create file:
 
 .github/workflows/snake.yml
 
-4️⃣ Paste:
+Paste:
 
 name: generate animation
 
@@ -102,9 +109,10 @@ jobs:
     steps:
       - uses: Platane/snk@v3
         with:
-          github_user_name: USERNAME
+          github_user_name: abgit-ui
           outputs: |
             dist/github-contribution-grid-snake.svg
+
       - uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
@@ -127,7 +135,7 @@ jobs:
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://github.com/USERNAME">
+  <a href="https://github.com/abgit-ui">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
@@ -137,7 +145,7 @@ jobs:
 ## 👀 Profile Visitors
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=USERNAME&label=Profile%20Views&color=0e75b6&style=flat" />
+  <img src="https://komarev.com/ghpvc/?username=abgit-ui&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
@@ -154,10 +162,8 @@ I believe the best way to learn programming is by <b>building in public</b> and 
   ⭐ If my projects help you, consider starring them!
 </p>
 
----
+<!-- ================================================= -->
 
-<!-- IMPORTANT -->
+<!-- END OF README                                     -->
 
-<!-- Replace USERNAME everywhere with your GitHub username (example: abgit-ui) -->
-
--->
+<!-- ================================================= -->
