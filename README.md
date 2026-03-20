@@ -7,7 +7,7 @@
 <!-- 🔥 BANNER (PUT YOUR IMAGE IN REPO FIRST) -->
 
 <p align="center">
-  <img src="./banner.png" width="100%" alt="Aanchal Bhatt Banner"/>
+  <img src="./banner.png" width="85%" alt="Aanchal Bhatt Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aanchal Bhatt</h1>
@@ -27,6 +27,30 @@
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=26&duration=3000&color=58A6FF&center=true&vCenter=true&width=700&lines=Open+Source+Enthusiast;Building+Projects+in+Public;Creating+Developer+Tutorials;Learning+Everyday+🚀" />
 </p>
+
+---
+
+<!-- ✨ MOTIVATION ZONE (Animated Characters) -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="developer animation" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="motivation animation" />
+</p>
+
+<p align="center"><b>💡 Keep building. Keep learning. Every commit counts.</b></p>
+
+---
+
+<!-- ✨ MOTIVATION ZONE (Animated Characters) -->
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding animation" />
+  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="developer animation" />
+  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="motivation animation" />
+</p>
+
+<p align="center"><b>💡 Keep building. Keep learning. Every commit counts.</b></p>
 
 ---
 
@@ -138,14 +162,6 @@ jobs:
   <a href="https://github.com/abgit-ui">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-</p>
-
----
-
-## 👀 Profile Visitors
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abgit-ui&label=Profile%20Views&color=0e75b6&style=flat" />
 </p>
 
 ---
