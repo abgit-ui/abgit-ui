@@ -7,7 +7,7 @@
 <!-- 🔥 BANNER (PUT YOUR IMAGE IN REPO FIRST) -->
 
 <p align="center">
-  <img src="./banner.png" width="85%" alt="Aanchal Bhatt Banner"/>
+  <img src="Screenshot 2026-03-20 132411.png" width="85%" alt="Aanchal Bhatt Banner"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Aanchal Bhatt</h1>
