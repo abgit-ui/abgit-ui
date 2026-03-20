@@ -42,23 +42,6 @@
 
 ---
 
-<!-- ✨ MOTIVATION ZONE (Animated Characters) -->
-
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="220" alt="coding animation" />
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="220" alt="developer animation" />
-  <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="220" alt="motivation animation" />
-</p>
-
-<p align="center"><b>💡 Keep building. Keep learning. Every commit counts.</b></p>
-
----
-
-<!-- PROFILE IMAGE -->
-
-<p align="center">
-  <img src="./Screenshot 2026-03-20 132411.png" width="170" alt="Aanchal Bhatt"/>
-</p>
 
 ---
 
