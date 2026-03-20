@@ -28,7 +28,7 @@
 <!-- PROFILE IMAGE -->
 
 <p align="center">
-  <img src="https://avatars.githubusercontent.com/u/USERNAME?v=4" width="170" style="border-radius:50%" alt="Aanchal Bhatt"/>
+  <img src=""Aanchal Bhatt"/>
 </p>
 
 ---
